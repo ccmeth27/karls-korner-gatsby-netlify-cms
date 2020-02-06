@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Karl's Korner
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: About Me
+subheading: Not-so Healthy Restaurant Reviews
 mainpitch:
-  title: Why Kaldi
+  title: Karl's Korner
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Fusce facilisis mollis magna semper ullamcorper. Nunc id pellentesque
+    sapien. Etiam ac mauris id magna vulputate condimentum. Duis tempor
+    vestibulum nisi, a semper mi pulvinar ut. Nulla facilisi. Curabitur at
+    mollis lorem. Sed eget nulla enim. Nulla fermentum odio mauris, eget
+    pulvinar libero mattis ut. Aliquam pretium at velit id volutpat. Nam id
+    metus eu augue faucibus vehicula. Donec hendrerit nibh eu urna molestie,
+    quis tincidunt ipsum sagittis. Nam lacinia felis eu vestibulum tincidunt. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Suspendisse consequat nisi sit amet est tempor, ac vehicula tortor gravida.
+  Sed lorem orci, varius vel eros eu, gravida iaculis libero.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +47,11 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Nulla fermentum odio mauris, eget pulvinar libero mattis ut. Aliquam pretium
+    at velit id volutpat. Nam id metus eu augue faucibus vehicula. Donec
+    hendrerit nibh eu urna molestie, quis tincidunt ipsum sagittis. Nam lacinia
+    felis eu vestibulum tincidunt. 
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +69,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
