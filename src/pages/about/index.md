@@ -1,19 +1,9 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Karl
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dictum rhoncus eleifend. Nulla velit eros, maximus et risus in, suscipit consequat nunc. Aliquam erat volutpat. In rhoncus elementum fermentum. Quisque lacinia, mi vitae volutpat sagittis, justo purus imperdiet lorem, a imperdiet tortor ipsum a lorem. Aliquam a tristique ex. Morbi vitae facilisis ipsum, id convallis diam. Suspendisse a varius tellus. Sed lacus dui, tincidunt accumsan pellentesque eget, vulputate eu nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec sit amet eros sed libero blandit viverra id ut nunc. Aliquam fermentum et ex eget tempus. Sed ornare tristique arcu. Sed consequat massa eget faucibus bibendum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas quis elit sagittis, dictum nulla ut, pharetra arcu.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Proin molestie lacus rutrum, semper sapien et, pharetra ex. Donec porta, turpis ut bibendum ornare, dui metus imperdiet libero, non consequat ligula magna non est. Nulla placerat sit amet ipsum eget sollicitudin. Phasellus vel lobortis lectus, venenatis consectetur ipsum. Nulla facilisi. Praesent non vestibulum erat, non euismod magna. Fusce ipsum mi, dictum eu eros ac, convallis pulvinar ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras eget venenatis ligula. Etiam lacus magna, tincidunt ac tempor a, consectetur sed augue. Nam viverra, ligula non mattis ullamcorper, augue eros ullamcorper nulla, non fringilla massa lectus non turpis. Etiam tempor mauris eu convallis varius. Nullam laoreet, elit placerat dignissim aliquet, sem augue sodales magna, ut ullamcorper ex sapien vel tellus. In congue urna a quam tincidunt blandit.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Cras eu erat in libero pretium porttitor sit amet sit amet risus. Nunc aliquam dolor eget suscipit imperdiet. Aenean vel felis enim. Quisque accumsan odio nec facilisis tempus. Nulla facilisi. Vivamus sed elit eget odio scelerisque dapibus. Morbi laoreet dolor congue erat pharetra, sed volutpat nunc luctus. Ut ac rhoncus tortor, sit amet faucibus justo. In ac consequat nisl, at varius eros.
