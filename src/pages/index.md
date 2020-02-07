@@ -26,20 +26,17 @@ intro:
     hendrerit nibh eu urna molestie, quis tincidunt ipsum sagittis. Nam lacinia
     felis eu vestibulum tincidunt. 
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Unhealthy Restaurant Reviews
+  description: |
+    Restaurant Reviews from the common man
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Food 1
+    image: /img/img_2653.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Food 2
+    image: /img/a0b41-IMG_1081.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Food 2
+    image: /img/720ae-IMG_1068.jpg
 ---
 
