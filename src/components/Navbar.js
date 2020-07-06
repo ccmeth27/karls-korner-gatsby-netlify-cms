@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/kk-logo.png'
-
+import logo from '../img/karls-korner-golf-pin-logo.png'
+/* eslint-disable */
 const Navbar = class extends React.Component {
   constructor(props) {
     super(props)
@@ -13,6 +13,7 @@ const Navbar = class extends React.Component {
   }
 
   toggleHamburger = () => {
+    /* eslint-disable */
     // toggle the active boolean in the state
     this.setState(
       {
@@ -42,7 +43,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="KarlsKorner" style={{ width: '150px' }} />
+              <img src={logo} alt="KarlsKorner" style={{ width: '75px' }} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -94,5 +95,6 @@ const Navbar = class extends React.Component {
     )
   }
 }
+
 
 export default Navbar

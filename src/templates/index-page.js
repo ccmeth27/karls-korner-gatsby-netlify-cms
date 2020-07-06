@@ -1,11 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-import logo from '../img/kk-logo.png'
+import logo from '../img/karls-korner-golf-pin-logo.png'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
+// import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
-
+import BGimage from '../../static/img/karls-korner-no-logo.png'
 export const IndexPageTemplate = ({
   image,
   title,
@@ -17,19 +17,20 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
     <div
-      className="full-width-image margin-top-0"
+      className="margin-top-0"
       style={{
         backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          BGimage
+          // !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
+        backgroundPosition: `center`,
+        // backgroundAttachment: `fixed`,
       }}
     >
       <div
         style={{
           display: 'flex',
-          height: '350px',
+          height: '220px',
           lineHeight: '1',
           justifyContent: 'space-around',
           alignItems: 'center',
@@ -37,7 +38,7 @@ export const IndexPageTemplate = ({
         }}
       >
         <img src={logo} alt="KarlsKorner" style={{ 
-          width: '550px',
+          width: '250px',
           
                }} />
         {/* <h1
