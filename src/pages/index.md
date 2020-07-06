@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Karl's Korner
-image: /img/flight2.jpeg
+image: /img/karls-korner-no-logo.png
 heading: About Me
 subheading: Not-so Healthy Restaurant Reviews
 mainpitch:
